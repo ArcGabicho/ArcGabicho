@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://gabo.dev">Gabriel</a> 👋</h1>
 </div>
-<img src="blob:https://www.pinterest.com/31810c80-96a3-4e27-b2e4-f2b9aea3142b">
+<img src="https://i.pinimg.com/1200x/97/1e/21/971e2155d4f108dcf78560094b0695b7.jpg">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/@Gabicho_05?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
