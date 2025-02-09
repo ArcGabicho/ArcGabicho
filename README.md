@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://gabo.dev">Gabriel</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/s6LACly">
+<img src="https://imgur.com/a/s6LACly](https://i.imgur.com/Si4syBV.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/@Gabicho_05?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
