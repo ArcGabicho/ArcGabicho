@@ -15,10 +15,10 @@
 
 Estoy enfocado en crear herramientas modernas y accesibles que faciliten el trabajo de otros desarrolladores y empresas. Me especializo en arquitectura de soluciones cloud y en desarrollar sistemas empresariales.
       
-### 🛠️ Tecnologías
+### 🛠️ Stack de Proyectos
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,firebase,astro,react,ts,tailwindcss,go,ruby,rails,python,fastapi,cpp,cmake,docker,git" />
+  <img src="https://skillicons.dev/icons?i=nextjs,firebase,astro,react,ts,tailwindcss,go,ruby,rails,python,fastapi,cpp,cmake,postgresql,docker" />
 </div>
 
 ## 📈 GitHub Stats
