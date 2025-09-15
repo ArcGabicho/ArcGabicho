@@ -28,11 +28,9 @@
     <img src="assets/go-dance.gif" alt="Go Dance" style="max-width:220px;width:100%;height:auto;object-fit:contain;"/>
   </div>
 </div>
-      
-
 
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:32px;">
-  <div style="flex:1;min-width:280px;text-align:left;">
+  <div style="flex:1;min-width:320px;max-width:480px;text-align:left;display:flex;flex-direction:column;justify-content:center;">
     <h3>🪟 Stack en Windows 11 Pro</h3>
     <img src="https://skillicons.dev/icons?i=nextjs,firebase,threejs,tailwindcss,react,ts" />
     <br>
@@ -42,7 +40,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,gcp,postman" />
   </div>
-  <div style="flex:1;min-width:280px;text-align:left;">
+  <div style="flex:1;min-width:320px;max-width:480px;text-align:left;display:flex;flex-direction:column;justify-content:center;">
     <h3>🐧 Stack en Arch Linux</h3>
     <img src="https://skillicons.dev/icons?i=nextjs,firebase,threejs,tailwindcss,react,js" />
     <br>
@@ -53,6 +51,7 @@
     <img src="https://skillicons.dev/icons?i=git,gitlab,vercel,cloudflare,gcp,postman" />
   </div>
 </div>
+      
 
 ## 📈 GitHub Stats
 
@@ -64,6 +63,12 @@
     </td>
     <td align="right" width="50%">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArcGabicho&theme=github_dark&utcOffset=8" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArcGabicho&theme=github_dark" alt="Profile Details" width="100%"/>
+</div>cards.vercel.app/api/cards/productive-time?username=ArcGabicho&theme=github_dark&utcOffset=8" alt="Productive Time"/>
     </td>
   </tr>
 </table>
