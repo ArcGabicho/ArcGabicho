@@ -26,13 +26,13 @@ Estoy enfocado en crear herramientas modernas y accesibles que faciliten el trab
 <table width="100%">
   <tr>
     <td>
-      <a widht="50%" align="left" href="https://github.com/ArcGabicho">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArcGabicho&theme=github_dark" alt="GitHub Stats"/>
+      <a href="https://github.com/ArcGabicho">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArcGabicho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
-      <a widht="50%" align="right" href="https://github.com/ArcGabicho">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArcGabicho&theme=github_dark&utcOffset=8" alt="Productive Time"/>
+      <a href="https://github.com/ArcGabicho">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArcGabicho&layout=compact&langs_count=8&theme=algolia"/>
       </a>
     </td>
   </tr>
