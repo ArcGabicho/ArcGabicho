@@ -11,67 +11,29 @@
 [![Portfolio](https://img.shields.io/badge/Portafolio-222?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.gabicho.dev/)
 
 
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:32px;">
-  <div style="flex:1;min-width:280px;text-align:left;">
-    <h1>¡Hola! Soy ArcGabicho</h1>
-    <p>Estoy enfocado en crear herramientas modernas y accesibles que faciliten el trabajo de otros desarrolladores y empresas. Me especializo en arquitectura de soluciones cloud y en desarrollar sistemas empresariales.</p>
-    <p>
-      Arquitecto de software y autor de Vortex:
-      <ul>
-        <li>Vortex Fast Code</li>
-        <li>Vortex Fast Design</li>
-        <li>Vortex Diagram SQL</li>
-      </ul>
-    </p>
-  </div>
-  <div style="flex:1;min-width:220px;text-align:right;">
-    <img src="assets/go-dance.gif" alt="Go Dance" style="max-width:220px;width:100%;height:auto;object-fit:contain;"/>
-  </div>
-</div>
+# <img src="assets/go-dance.gif" alt="Go Dance" height="32" style="vertical-align:middle;"/> ¡Hola! Soy ArcGabicho 
 
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:32px;">
-  <div style="flex:1;min-width:320px;max-width:480px;text-align:left;display:flex;flex-direction:column;justify-content:center;">
-    <h3>🪟 Stack en Windows 11 Pro</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,firebase,threejs,tailwindcss,react,ts" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=astro,cypress,go,python,fastapi,pytorch" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=cs,net,wasm,powershell,vscode,visualstudio" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,gcp,postman" />
-  </div>
-  <div style="flex:1;min-width:320px;max-width:480px;text-align:left;display:flex;flex-direction:column;justify-content:center;">
-    <h3>🐧 Stack en Arch Linux</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,firebase,threejs,tailwindcss,react,js" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=astro,go,ruby,rails,python,fastapi" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=cpp,cmake,postgresql,bash,vim,neovim" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,gitlab,vercel,cloudflare,gcp,postman" />
-  </div>
-</div>
+Estoy enfocado en crear herramientas modernas y accesibles que faciliten el trabajo de otros desarrolladores y empresas. Me especializo en arquitectura de soluciones cloud y en desarrollar sistemas empresariales.
       
+### 🛠️ Stack de Proyectos
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,firebase,astro,react,ts,tailwindcss,go,ruby,rails,python,fastapi,cpp,cmake,postgresql,docker" />
+</div>
 
 ## 📈 GitHub Stats
 
-
 <table width="100%">
   <tr>
-    <td align="left" width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArcGabicho&theme=github_dark" alt="GitHub Stats"/>
+    <td>
+      <a href="https://github.com/ArcGabicho">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArcGabicho&theme=github_dark" alt="GitHub Stats"/>
+      </a>
     </td>
-    <td align="right" width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArcGabicho&theme=github_dark&utcOffset=8" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArcGabicho&theme=github_dark" alt="Profile Details" width="100%"/>
-</div>cards.vercel.app/api/cards/productive-time?username=ArcGabicho&theme=github_dark&utcOffset=8" alt="Productive Time"/>
+    <td>
+      <a href="https://github.com/ArcGabicho">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArcGabicho&theme=github_dark&utcOffset=8" alt="Productive Time"/>
+      </a>
     </td>
   </tr>
 </table>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArcGabicho&theme=github_dark" alt="Profile Details" width="100%"/>
-</div>
